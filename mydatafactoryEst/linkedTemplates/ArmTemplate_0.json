@@ -68,6 +68,7 @@
 				"typeProperties": {
 					"location": {
 						"type": "AzureBlobFSLocation",
+						"folderPath": "datalakedirectory",
 						"fileSystem": "adlsfilesystemak"
 					},
 					"columnDelimiter": ",",
